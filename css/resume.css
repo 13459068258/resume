@@ -1,0 +1,38 @@
+body {
+    background: rgb(231, 250, 122);
+    font-size: 18px;
+    line-height: 20px;
+    font-family: Tahoma,Arial,"宋体";
+}
+
+.resume-content {
+    border: 1px #000 solid;
+    background: #fff;
+    margin: auto 25%;
+    width: 60%;
+    height: 900px;
+    box-shadow: 1px 1px 5px #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px 2px #fff;
+}
+
+h4 {
+    color: blue;
+    font-style: oblique;
+    font-weight: 600;
+}
+
+p {
+    text-indent: 40px;
+}
+
+h5 {
+    text-align: center;
+}
